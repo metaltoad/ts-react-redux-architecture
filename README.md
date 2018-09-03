@@ -18,6 +18,14 @@ _install, configure, and test a redux implmentation_
 ## Branch Index
 
 * [1.0 Description](#description)
+* [2.0 Install the Redux Library](#install-the-redux-library)
+* [3.0 Install the redux-thunk Middleware Library](#install-the-redux-thunk-middleware-library)
+* [4.0 Model the RootState Interface](#model-the-rootstate-interface)
+* [5.0 Configure the RootState Service Provider](#configure-the-rootstate-provider)
+* [6.0 Configure the Store Service Provider](#configure-the-store-service-provider)
+* [7.0 Bootstrap the Store into the App Component](#bootstrap-the-store-into-the-app-component)
+* [8.0 Boilerplate the App state reducer](#boilerplate-the-app-state-reducer)
+* [9.0 Conclusion](#conclusion)
 
 ## Bootstrapping Redux
 
@@ -33,22 +41,48 @@ This article showcases the implementation of the [Redux](https://redux.js.org/) 
 
 We need to modify an existing [Single Page Application (SPA)](https://en.wikipedia.org/wiki/Single-page_application) with the following acceptance criteria:
 
-1. 
+1. Our application will support application state management with the Redux library.
+2. Our application will support state dispatch functions (dispatchers) written using a [thunk](https://en.wikipedia.org/wiki/Thunk) design pattern.
+3. All application components should have access to state management services.
 
 ### Solution
 
-1. 
+1. Install the Redux library
+2. Install the [redux-thunk](https://www.npmjs.com/package/redux-thunk) middleware library.
+3. Model the RootState Interface.
+4. Configure the RootState service provider.
+5. Configure the store service provider.
+6. Bootstrap the root state instance into our Application component root.
+7. Boilerplate an App state reducer.
 
 ### Development Environment Requirements
 
 * [nodejs](https://nodejs.org/en/)
 * [A modern IDE](https://code.visualstudio.com/) and [linting utility](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 
-## First Step
+## Install the Redux Library
+_todo_
+
+## Install the redux-thunk middleware library
+_todo_
+
+## Model the RootState Interface
+_todo_
+
+## Configure the RootState Service Provider
+_todo_
+
+## Configure the Store Service Provider
+_todo_
+
+## Bootstrap the Store Into the App Component
+_todo_
+
+## Boilerplate the App state reducer
+_todo_
 
 ## Conclusion
-
-We had a great time...
+_todo_
 
 __Test our project:__
 

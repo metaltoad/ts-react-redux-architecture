@@ -21,7 +21,7 @@ _install, configure, and test a redux implmentation_
 
 ## Bootstrapping Redux
 
-This article showcases the implementation of the [Redux](https://redux.js.org/) state management library within a TypeScript client application using the React framework. The architecture for this application is a reflection of the project produced in the first part of this series.
+This article showcases the implementation of the [Redux](https://redux.js.org/) state management library within a [TypeScript](https://www.typescriptlang.org/) client application using the [React](https://reactjs.org/) framework. The architecture for this application is a reflection of the project produced in the [first part of this series](https://github.com/keelz/ts-react-redux-architecture#description).
 
 > __* NOTE *__
 >
